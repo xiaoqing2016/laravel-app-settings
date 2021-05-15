@@ -1,3 +1,6 @@
+Fork自qcod/laravel-app-settings
+主要是将表名由settings修改为app_settings
+
 ## Laravel App Settings
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/qcod/laravel-app-settings.svg)](https://packagist.org/packages/qcod/laravel-app-settings)
@@ -14,7 +17,7 @@ Use `qcod/laravel-app-settings` to add settings manager with UI in your Laravel 
 **1** - You can install the package via composer:
 
 ```bash
-$ composer require qcod/laravel-app-settings
+$ composer require huantime/laravel-app-settings
 ```
 
 **2** - If you are installing on Laravel 5.4 or lower you will be needed to manually register Service Provider by adding it in `config/app.php` providers array and Facade in aliases arrays.
