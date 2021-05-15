@@ -1,11 +1,12 @@
 {
-  "name": "qcod/laravel-app-settings",
+  "name": "huantime/laravel-app-settings",
   "description": "A package with UI to store and manage all the settings for your application",
-  "homepage": "https://github.com/qcod/laravel-app-settings",
+  "homepage": "https://github.com/xiaoqing2016/laravel-app-settings",
   "type": "library",
   "license": "MIT",
   "keywords": [
     "qcod",
+    "huantime",
     "laravel",
     "database settings",
     "db settings",
